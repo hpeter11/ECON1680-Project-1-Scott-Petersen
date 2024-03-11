@@ -9,8 +9,11 @@ This project analyzes ride-hailing data to understand the factors affecting cab 
 ## Installation 
 Clone the repository to your local machine. Install the required dependencies using pip install.
 
+## Content
+This repository contains code that can be used to replicate the experiment and the data used to make the study, which is stored within the Data folder.
+
 ## Data 
 Download the data from https://www.kaggle.com/datasets/ravi72munde/uber-lyft-cab-prices?rvi=1&select=cab_rides.csv
 
 ## Usage 
-Run the Jupyter Notebook analysis.ipynb. Follow the code cells to understand the data preprocessing, feature engineering, and regression analysis steps. Experiment with different models and parameters to improve performance. Use the provided code snippets to generate summary statistics and visualizations. Contributing Contributions are welcome! Please open an issue to report bugs or suggest new features.
+Run the Jupyter Notebook analysis.ipynb. Follow the code cells to understand the data preprocessing, feature engineering, and regression analysis steps. Experiment with different models and parameters to improve performance. Use the provided code snippets to generate summary statistics and visualizations. Contributions are welcome! Please open an issue to report bugs or suggest new features.
