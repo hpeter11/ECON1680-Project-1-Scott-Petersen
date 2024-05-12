@@ -16,4 +16,4 @@ This repository contains code that can be used to replicate the experiment and t
 Download the data from https://www.kaggle.com/datasets/ravi72munde/uber-lyft-cab-prices?rvi=1&select=cab_rides.csv
 
 ## Usage 
-Run the Jupyter Notebook analysis.ipynb. Follow the code cells to understand the data preprocessing, feature engineering, and regression analysis steps. Experiment with different models and parameters to improve performance. Use the provided code snippets to generate summary statistics and visualizations. Contributions are welcome! Please open an issue to report bugs or suggest new features.
+Run the Jupyter Notebook analysis.ipynb. Follow the code cells to understand the data preprocessing, feature engineering, and regression analysis steps. Experiment with different models and parameters to improve performance. Use the provided code snippets to generate summary statistics and visualizations. 
